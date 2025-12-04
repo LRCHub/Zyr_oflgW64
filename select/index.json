@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ダウンタイマー",
+  "base_artist": "Kairiki bear",
+  "createdAt": "2025-12-04T12:28:23.855869Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダウンタイマー",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_ダウンタイマー_かいりきベア.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ダウンタイマー (BUG EFFECT Ver.)",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_02_ダウンタイマー_(BUG_EFFECT_Ver.)_かいりきベア.txt"
+    }
+  ]
+}
